@@ -1,8 +1,8 @@
 # 1. Podaj ilość liczb ciągu
 # 2. Jeśli liczba ta jest ujemna lub równa 0 => wyświetl odpowiednią informację i zapytaj użytkownika jeszcze raz
 # 3. Jeśli wszystko się zgadza => podaj pierwszy wyraz ciągu i n kolejnych wyrazów
-# 5. Przejdź po wszystkich elementach ciagu podanych przez użytkownika i przy pomocy modulo określ, która liczba jest parzysta.
-# 6. Jeśli liczba jest parzysta => zwiększ liznik o 1, jeśli nie => nie rób nic
+# 4. Przejdź po wszystkich elementach ciagu podanych przez użytkownika i przy pomocy modulo określ, która liczba jest parzysta.
+# 5. Jeśli liczba jest parzysta => zwiększ liznik o 1, jeśli nie => nie rób nic
 
 
 def wyznaczLiczbyParzyste():
