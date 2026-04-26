@@ -21,7 +21,7 @@ def uruchom_przychodnie():
                 pacjent = kolejka.pop(0)
                 print(f"Pacjent {pacjent} proszony do gabinetu.")
             else:
-                print("Błąd: Kolejka jest pusta!")
+                print("Kolejka jest pusta!")
         
         elif wybor == '3':
             if not kolejka:
@@ -36,7 +36,7 @@ def uruchom_przychodnie():
             break
         
         else:
-            print("Nieprawidłowy wybór, spróbuj ponownie.")
+            print("Nieprawidłowy wybór")
 
 if __name__ == "__main__":
     uruchom_przychodnie()
